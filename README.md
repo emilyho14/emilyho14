@@ -1,7 +1,7 @@
 # Welcome to my Github profile!
 
 ## About Me!
-I am a current Master’s of Computer Science student seeking opportunities in full-stack and backend software engineering.  <br>
+I am a current **Master’s of Computer Science student** seeking full-time opportunities in **full-stack and backend software engineering**.  <br>
 Previously, I have enjoyed building **scalable systems** and learning new technologies through research and hands-on projects.  <br>
 I am especially interested in developing software that continues my learning and encourages thoughtful problem-solving, while also having real-world impact. <br>
 My focus is on building **scalable, reliable systems** with an emphasis on **full-stack and backend development**. <br>
