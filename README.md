@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my Github profile!
 
-<!--
-**emilyho14/emilyho14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education:
+- B.S. Computer Science and Geographic Information Science (University of Illinois at Urbana Champaign, Graduated May 2025)
+- Master's of Computer Science (University of Illinois at Urbana Champaign, Graduating December 2026)
 
-Here are some ideas to get you started:
+### Experience:
+- Synchrony (Full Stack Development Intern)
+- TIMAN Research Group
+- Data Science Discovery Research Group (Backend Engineering Intern)
+- Ameren (Data Science and Application Development Intern)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stacks: 
+
+### Fun Facts and Interests
