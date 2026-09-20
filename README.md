@@ -1,4 +1,4 @@
-# Welcome to my Github profile!
+# Welcome to my GitHub profile!
 
 ## About Me!
 I am a current **Master’s of Computer Science student** at the University of Illinois at Urbana Champaign. I am seeking full-time opportunities in **full-stack and backend software engineering**.  <br>
