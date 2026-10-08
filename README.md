@@ -1,9 +1,8 @@
 # Welcome to my GitHub profile!
 
 ## About Me!
-I am a current **Master’s of Computer Science student** at the University of Illinois at Urbana Champaign. I am seeking full-time opportunities in **full-stack and backend software engineering**.  <br>
-Previously, I have enjoyed building **scalable systems** and learning new technologies through research and hands-on projects.  <br>
-I am especially interested in developing software that continues my learning and encourages thoughtful problem-solving, while also having real-world impact.! <br>
+I am a current **Master’s of Computer Science student** at the University of Illinois at Urbana Champaign. I am currently seeking full-time opportunities in **full-stack and backend software engineering**.  <br>
+I am especially interested in projects that encourages _thoughtful_ learning and problem-solving while also having real-world impact! <br>
 My focus is on building **scalable, reliable systems** with an emphasis on **full-stack and backend development**. <br>
 
 ---
